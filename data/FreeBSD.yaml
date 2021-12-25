@@ -1,0 +1,4 @@
+---
+chrony::config_keys: /usr/local/etc/chrony.keys
+chrony::config: /usr/local/etc/chrony.conf
+chrony::dumpdir: /var/db/chrony
